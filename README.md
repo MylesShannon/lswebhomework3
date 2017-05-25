@@ -39,6 +39,8 @@ I am learning how to use git at Lambda School's [online code bootcamp](https://l
 
 3. Push your changes to your new repository.
 
+[New repository](https://github.com/MylesShannon/hellolambdaschool)
+
 That's it. Good luck!
 
 *For extra credit, practice this a few times with a few different repositories.*
