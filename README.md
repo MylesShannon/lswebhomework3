@@ -23,6 +23,10 @@ I'm learning: JavaScript
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
+[Original tweet](https://twitter.com/realDonaldTrump/status/863007411132649473)
+
+!["rubber duckies"](/tweet.png?raw=true "rubber duckies")
+
 ## Task Two ##
 
 1. Create a new repository on Github at github.com/yourusername/hellolambdaschool.
